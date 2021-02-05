@@ -1,33 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PersonalRepo\\ServiceFabricdemo\\TestService\\TestService.csproj": {}
+    "C:\\Users\\shaki\\Documents\\GitHub\\ServiceFabricDemo\\TestService\\TestService.csproj": {}
   },
   "projects": {
-    "D:\\PersonalRepo\\ServiceFabricdemo\\TestService\\TestService.csproj": {
+    "C:\\Users\\shaki\\Documents\\GitHub\\ServiceFabricDemo\\TestService\\TestService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonalRepo\\ServiceFabricdemo\\TestService\\TestService.csproj",
+        "projectUniqueName": "C:\\Users\\shaki\\Documents\\GitHub\\ServiceFabricDemo\\TestService\\TestService.csproj",
         "projectName": "TestService",
-        "projectPath": "D:\\PersonalRepo\\ServiceFabricdemo\\TestService\\TestService.csproj",
-        "packagesPath": "C:\\Users\\Shakila.Joseph\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonalRepo\\ServiceFabricdemo\\TestService\\obj\\",
+        "projectPath": "C:\\Users\\shaki\\Documents\\GitHub\\ServiceFabricDemo\\TestService\\TestService.csproj",
+        "packagesPath": "C:\\Users\\shaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaki\\Documents\\GitHub\\ServiceFabricDemo\\TestService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shakila.Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+          "C:\\Users\\shaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
-          "http://rs-dev01:81/nuget/Default": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
